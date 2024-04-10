@@ -1,3 +1,3 @@
 # WheatherCheck
 <br>
-Authir:-Mr.Sohit Kumar
+Author:-Mr.Sohit Kumar
